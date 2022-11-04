@@ -1,0 +1,92 @@
+[
+    {
+        "title": "[FOR YOUR ACTIO...]",
+        "message": "In line with the inc...",
+        "sentBy": "Roe, Ken",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "02/17/2022",
+        "start": "02/18/2022",
+        "end": "02/22/2022"
+    },
+    {
+        "title": "Annual Physical E...",
+        "message": "In compliance with...",
+        "sentBy": "Roe, Ken",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "08/30/2022",
+        "start": "09/01/2020",
+        "end": "09/30/2020"
+    },
+    {
+        "title": "Mid-Autumn Festi...",
+        "message": "We wish everyone a...",
+        "sentBy": "Doe, Jane",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "08/22/2020",
+        "start": "02/18/2020",
+        "end": "02/22/2022"
+    },
+    {
+        "title": "50th General Asse...",
+        "message": "Expelliarmus! Chec...",
+        "sentBy": "Doe, John",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "08/15/2020",
+        "start": "08/19/2020",
+        "end": "08/25/2020"
+    },
+    {
+        "title": "New Employees",
+        "message": "Let us all welcome...",
+        "sentBy": "King, Chow",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "08/10/2020",
+        "start": "08/15/2020",
+        "end": "08/18/2020"
+    },
+    {
+        "title": "Stocks as of Aug. ...",
+        "message": "Our investors have...",
+        "sentBy": "King, Chow",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "07/30/2020",
+        "start": "08/01/2020",
+        "end": "08/04/2020"
+    },
+    {
+        "title": "Tip of the Week",
+        "message": "To stay hydrated, d...",
+        "sentBy": "Roe, Ken",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "02/26/2020",
+        "start": "02/27/2020",
+        "end": "03/15/2020"
+    },
+    {
+        "title": "Employees of the M...",
+        "message": "Congratulations to...",
+        "sentBy": "King, Chow",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "01/12/2020",
+        "start": "01/13/2020",
+        "end": "01/14/2020"
+    },
+    {
+        "title": "Breakfast Menu",
+        "message": "We will be introducing...",
+        "sentBy": "Gus, Amon",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "12/15/2019",
+        "start": "12/20/2019",
+        "end": "12/20/2019"
+    },
+    {
+        "title": "Cafe Relocation",
+        "message": "With the ongoing re...",
+        "sentBy": "Lavjsta, Asta",
+        "sentThrough": "fa-solid fa-bookmark",
+        "date": "12/14/2019",
+        "start": "12/15/2019",
+        "end": "12/19/2019"
+    }
+]
